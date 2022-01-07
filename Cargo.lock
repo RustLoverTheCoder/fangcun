@@ -3,5 +3,33 @@
 version = 3
 
 [[package]]
-name = "fangcun"
+name = "fangcun-common"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-container"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-image"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-network"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-sandbox"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-server"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-services"
+version = "0.1.0"
+
+[[package]]
+name = "fangcun-storage"
 version = "0.1.0"
